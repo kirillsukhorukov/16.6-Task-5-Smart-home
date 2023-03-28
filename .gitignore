@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/x64/Debug
+/16.6-Task-5-Smart-home.vcxproj.user
+/16.6-Task-5-Smart-home.vcxproj.filters
+/16.6-Task-5-Smart-home.vcxproj
+/16.6-Task-5-Smart-home.sln
+/.vs/16.6-Task-5-Smart-home
